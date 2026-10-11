@@ -1,0 +1,4 @@
+FirstName,LastName,Department,Title,OU,Groups
+Laura,Martínez Soler,Comercial,Comercial,"OU=Comercial,OU=Usuarios,DC=contoso,DC=local",GG_Comercial;GG_VPN
+Marc,Puig Ferrer,Contabilidad,Técnico contable,"OU=Contabilidad,OU=Usuarios,DC=contoso,DC=local",GG_Contabilidad
+Anna,López,Almacén,Mozo de almacén,"OU=Almacen,OU=Usuarios,DC=contoso,DC=local",
