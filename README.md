@@ -8,6 +8,8 @@ Pensados para el día a día de un equipo de sistemas pequeño: seguros por defe
 
 > **Estado:** pendiente de validar en un laboratorio propio (Windows Server de evaluación). Revisa y prueba siempre con `-WhatIf` antes de usarlo en producción.
 
+> Desarrollado con asistencia de IA.
+
 ## Scripts
 
 | Script | Qué hace | ¿Modifica AD? |
