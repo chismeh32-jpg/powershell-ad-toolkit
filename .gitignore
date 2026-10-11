@@ -1,0 +1,4 @@
+# Informes generados (pueden contener datos personales o contraseñas)
+*.csv
+*.html
+!samples/*.csv
