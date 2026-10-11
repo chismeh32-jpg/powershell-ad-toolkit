@@ -30,7 +30,8 @@
 
 .NOTES
     Requiere el módulo ActiveDirectory (RSAT) y permisos para crear usuarios en la OU.
-    Probado en laboratorio (contoso.local). No contiene datos de ninguna empresa real.
+    Los ejemplos usan un dominio ficticio (contoso.local). Pendiente de validar en laboratorio.
+    No contiene datos de ninguna empresa real.
 #>
 [CmdletBinding(SupportsShouldProcess)]
 param(
